@@ -8,8 +8,7 @@ Absen : 10 (sepuluh)<br>
 ![2](https://cloud.githubusercontent.com/assets/22217533/24001653/5293b3a0-0a91-11e7-92d6-c53ae159b831.PNG)<br>
 3. Bila kita mencoba sign-in atau log in namun belum mendaftar sebagai anggota, maka akan muncul pemberitahuan "SALAH!" : <br>
 ![10](https://cloud.githubusercontent.com/assets/22217533/24001660/52d8505a-0a91-11e7-9bca-ca1299f0138a.PNG)<br>
-4. Setelah mendaftar dan berhasil log in, maka kita bisa menambahkan data dan klik button "SAVE" untuk menyimpan data yang kita inputkan :<br>
-![3](https://cloud.githubusercontent.com/assets/22217533/24001655/52981882-0a91-11e7-97b5-cee5aee390a4.PNG)<br>
+4. Setelah mendaftar dan berhasil log in, maka kita bisa menambahkan data dan klik button "SAVE" untuk menyimpan data yang kita inputkan<br>
 5. Klik button "REFRESH" untuk melihat apakah sudah ter update data yang baru kita input dan simpan :<br>
 ![4](https://cloud.githubusercontent.com/assets/22217533/24001661/531e59a6-0a91-11e7-9cdb-0d9942f97fd7.PNG)<br>
 6. Untuk menghapus data yang telah masuk dalam tabel, pilih baris dan klik button "DELETE" :<br>
